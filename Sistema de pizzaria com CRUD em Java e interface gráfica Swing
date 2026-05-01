@@ -1,7 +1,22 @@
 # README.md
-Sistema de pizzaria com CRUD desenvolvido em Java utilizando Swing. Permite cadastrar, editar e excluir pedidos, com cálculo automático de valores e interface gráfica. Aplicação baseada em Programação Orientada a Objetos e manipulação de dados.
+# Sistema de Pizzaria 🍕
+
+Sistema CRUD desenvolvido em Java com Swing para cadastro de pedidos.
+
+## Funcionalidades
+- Criar pedidos
+- Editar pedidos
+- Excluir pedidos
+- Cálculo automático do valor
+
+## Tecnologias
+- Java
+- Swing (GUI)
+
+## Como executar
+1. Abrir no NetBeans
+2. Executar a classe SistemaPizzaria
 
 ## Interface
-
 ![Tela do sistema](sistema-pedido.jpeg)
 ![Sistema](sistema-pizzaria.jpeg)
